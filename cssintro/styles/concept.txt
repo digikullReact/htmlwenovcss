@@ -1,0 +1,3 @@
+inline style > inFile styles (<style></style>) >extrnal css 
+
+// If you put !important in the extrnal style or the infile style then it will override the inline styling as well

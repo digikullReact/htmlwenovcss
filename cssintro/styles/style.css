@@ -1,0 +1,19 @@
+.heading{
+/**
+CSS rules in here
+**/
+color: green;
+
+}
+
+#heading{
+    color: blueviolet;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading2{
+    color: slateblue !important;
+}
